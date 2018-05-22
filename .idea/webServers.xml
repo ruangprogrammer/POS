@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01081e2c-e851-4a9e-8620-d2628a42d38a" name="pos" url="http://mockup.ruangprogrammer.com">
+        <fileTransfer host="mockup.ruangprogrammer.com" port="21" rootFolder="/mockup.ruangprogrammer.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
